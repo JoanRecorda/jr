@@ -29,6 +29,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+Ací hi va un blog
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
